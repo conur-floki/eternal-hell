@@ -1,4 +1,4 @@
-module dungeon
+module github.com/conur-floki/eternal-hell
 
 go 1.21.3
 
